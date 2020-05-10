@@ -1,0 +1,2 @@
+# -no-no-square
+template
